@@ -1,0 +1,2 @@
+127.0.0.1 www.superman.com
+127.0.0.2 www.test.com
